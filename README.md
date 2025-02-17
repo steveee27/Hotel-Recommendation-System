@@ -7,9 +7,10 @@
 4. [Dataset](#dataset)
 5. [Data Preprocessing and Cleaning](#data-preprocessing-and-cleaning)
 6. [Results](#results)
-7. [Future Work](#future-work)
-8. [Contributors](#contributors)
-9. [License](#license)
+7. [Demo](#demo)
+8. [Future Work](#future-work)
+9. [Contributors](#contributors)
+10. [License](#license)
 
 ## Background
 
@@ -60,6 +61,10 @@ Several steps were taken to clean and prepare the data:
 ## Results
 
 The recommendation system successfully provides hotel suggestions based on key features. The model performs well, with a **precision@5** of **1.0** during evaluation, meaning that all top 5 recommendations were relevant. The recommendations are tailored to users’ preferences, ensuring a personalized experience.
+
+## Demo
+
+https://github.com/user-attachments/assets/230f4fe0-798e-40b8-852c-be256fafac2f
 
 ## Future Work
 
