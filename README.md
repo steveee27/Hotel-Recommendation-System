@@ -64,7 +64,10 @@ The recommendation system successfully provides hotel suggestions based on key f
 
 ## Demo
 
-https://github.com/user-attachments/assets/ceb20851-7311-4c3f-a910-5e2b7ab8a457
+
+
+https://github.com/user-attachments/assets/37b596ea-3c35-444a-a723-a786a9d98a16
+
 
 
 ## Future Work
